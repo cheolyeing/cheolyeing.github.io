@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/highlighter/static/css/main.5e231d51.css",
+    "main.js": "/highlighter/static/js/main.a9dc68dd.js",
+    "index.html": "/highlighter/index.html",
+    "main.5e231d51.css.map": "/highlighter/static/css/main.5e231d51.css.map",
+    "main.a9dc68dd.js.map": "/highlighter/static/js/main.a9dc68dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e231d51.css",
+    "static/js/main.a9dc68dd.js"
+  ]
+}
